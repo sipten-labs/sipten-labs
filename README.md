@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipten-labs&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🏢 Professional Highlights & Workflow
 ```json
 {
