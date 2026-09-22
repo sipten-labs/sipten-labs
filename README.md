@@ -18,3 +18,24 @@
   "primary_directive": "Architecting high-performance web applications, 3D WebGL/Spline environments, and enterprise-grade automation systems.",
   "avionics": ["React.js", "Next.js", "Three.js / Spline 3D", "Python", "Advanced Excel & VBA"]
 }
+---
+
+### 📋 MISSION LOG (EXPERTISE & CAPABILITIES)
+| Sector | System / Technology | Operational Status |
+| :--- | :--- | :--- |
+| **Frontend / WebGL** | React, Next.js, Tailwind CSS, Spline 3D | `ONLINE` |
+| **AI & Backend** | Python, Node.js, AI Workflows & Automation | `ONLINE` |
+| **Enterprise Data** | Advanced Excel, Power Query, VBA Macros | `ONLINE` |
+
+---
+
+### 🚀 FLEET STATUS (CORE ARSENAL)
+* **Web Architecture:** Building scalable full-stack applications with clean UI/UX design.
+* **3D & Immersive Tech:** Integrating high-level Spline 3D designs for modern web interfaces.
+* **Data Automation:** Developing robust automated work systems using advanced Excel and VBA logic.
+
+---
+
+<p align="center">
+  <b>TOWER CONTACT:</b> <a href="https://github.com/sipten-labs">GitHub Terminal</a>
+</p>
