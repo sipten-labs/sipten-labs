@@ -122,13 +122,14 @@ Short one-line description of an AI automation project.
 
 ### 🌐 Connect With Me
 
+<a href="https://github.com/sipten-labs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sipten-raja-814a17429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://sipten-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siptenfreelance@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<i>⭐️ From <b>Raja</b> — building premium web experiences, one pixel at a time.</i>
+<i>⭐️ From <b>Sipten Raja</b> — building premium web experiences, one pixel at a time.</i>
 
 </div>
 
