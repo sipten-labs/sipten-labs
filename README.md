@@ -1,45 +1,20 @@
-<h2 align="center">Hi there 👋, I'm Sipten Labs</h2>
-<p align="center"><b>Senior Full-Stack Developer & AI Automation Specialist</b></p>
 <p align="center">
-  <i>Building high-performance web architectures, immersive 3D web experiences, and enterprise automation solutions.</i>
+  <code>LAT 37.77°N</code> &nbsp;•&nbsp; 
+  <code>LON 122.42°W</code> &nbsp;•&nbsp; 
+  <code>ALT 35,000 FT</code> &nbsp;•&nbsp; 
+  <code>STATUS: ACTIVE 🟢</code>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sipten-labs&label=Profile%20Views&color=0e75b6&style=flat" alt="sipten-labs" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat&logo=github" alt="Experience" />
-  <img src="https://img.shields.io/badge/Specialization-FullStack%20%7C%20AI%20%7C%203D-success?style=flat" alt="Specialization" />
-</p>
+<h1 align="center">SIPTEN LABS</h1>
+<p align="center"><b>SENIOR FLIGHT ENGINEER & AI SYSTEMS SPECIALIST</b></p>
 
 ---
 
-### 🚀 About Me
-* 💼 **Primary Focus:** Scalable Web Applications, UI/UX Design Systems, and AI Workflows.
-* ⚡ **Core Expertise:** Full-stack development, 3D WebGL/Spline integration, Advanced Excel & VBA automation, and Power Query.
-* 🎯 **Mission:** Delivering production-ready, highly optimized digital products that solve complex business challenges.
-
----
-
-### 💻 Technical Arsenal (Tech Stack)
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend & 3D** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Spline 3D, UI/UX (Figma) |
-| **Backend & AI** | Node.js, Python, REST APIs, AI Code Generation & Automation Workflows |
-| **Data & Enterprise** | Advanced Excel, VBA Macros, Power Query, Enterprise Data Automation |
-| **Tools & Version Control**| Git, GitHub, VS Code, Vercel, Deployment Pipelines |
-
----
-
-### 🏢 Professional Highlights & Workflow
+### 🗺️ WAYPOINT 01: ABOUT MISSION
 ```json
 {
-  "engineer": "Sipten Labs",
-  "status": "Active & Available for High-Impact Projects",
-  "experience_level": "Senior 3+ Years",
-  "core_domains": [
-    "Web Engineering",
-    "UI/UX Architecture",
-    "Enterprise Data Automation",
-    "AI-Driven Solutions"
-  ],
-  "focus": "Performance, Scalability, and Clean UI"
+  "callsign": "Sipten Labs",
+  "clearance": "Senior Level (3+ Years Experience)",
+  "primary_directive": "Architecting high-performance web applications, 3D WebGL/Spline environments, and enterprise-grade automation systems.",
+  "avionics": ["React.js", "Next.js", "Three.js / Spline 3D", "Python", "Advanced Excel & VBA"]
 }
