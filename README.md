@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sipten-lab&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/sipten-lab?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=sipten-labs&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sipten-labs?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" />
 
 </div>
 
@@ -68,14 +68,14 @@ weigh pinned repos more than any badge on this page.
 <tr>
 <td width="50%">
 
-**🎬 [Project Name 1](https://github.com/sipten-lab/repo-1)**
+**🎬 [Project Name 1](https://github.com/sipten-labs/repo-1)**
 Short one-line description of what it does and the standout feature.
 `React` `Three.js` `GSAP`
 
 </td>
 <td width="50%">
 
-**🎨 [Project Name 2](https://github.com/sipten-lab/repo-2)**
+**🎨 [Project Name 2](https://github.com/sipten-labs/repo-2)**
 Short one-line description of what it does and the standout feature.
 `Next.js` `Tailwind` `Framer Motion`
 
@@ -84,14 +84,14 @@ Short one-line description of what it does and the standout feature.
 <tr>
 <td width="50%">
 
-**📊 [Project Name 3](https://github.com/sipten-lab/repo-3)**
+**📊 [Project Name 3](https://github.com/sipten-labs/repo-3)**
 Short one-line description — e.g. an Excel/VBA automation tool.
 `VBA` `Power Query` `Excel`
 
 </td>
 <td width="50%">
 
-**🤖 [Project Name 4](https://github.com/sipten-lab/repo-4)**
+**🤖 [Project Name 4](https://github.com/sipten-labs/repo-4)**
 Short one-line description of an AI automation project.
 `Python` `AI Automation`
 
@@ -104,16 +104,16 @@ Short one-line description of an AI automation project.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sipten-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipten-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sipten-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipten-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipten-lab&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipten-labs&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipten-lab&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipten-labs&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
