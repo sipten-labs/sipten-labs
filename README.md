@@ -85,12 +85,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sipten-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipten-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipten-labs&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipten-labs&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6" alt="GitHub Streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
